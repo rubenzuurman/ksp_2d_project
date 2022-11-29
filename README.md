@@ -25,8 +25,8 @@ The image below is the initial sketch of the project.
 ### Deadlines
 18-11-2022: State system.
 
-- [ ] Implement state system and the menu state.
-    - Added/completed: 18-11-2022/tbd
+- [x] Implement state system and the menu state.
+    - Added/completed: 18-11-2022/29-11-2022
 
 19-11-2022: Solar system with predetermined orbits of planets and moons.
 
